@@ -107,3 +107,6 @@ celerybeat.pid
 *.swp
 *.tmp
 .DS_Store
+
+# фаил с подсказками
+подсказка.txt
